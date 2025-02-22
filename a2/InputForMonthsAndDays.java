@@ -2,7 +2,7 @@ package a2;
 
 import java.util.Scanner;
 
-public class InputForMonthsAndDays {
+public class InputForMonthsAndDays { 
     public static void main(String[] args) {
         System.out.println("Please enter a number no greater than the number of months in the year");
 
